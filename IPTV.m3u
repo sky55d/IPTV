@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="【内容由tools.iptv-search.com智能转换】" tvg-logo="",www.iptv-search.com
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zhijd
+#EXTINF:-1 group-title="【获取最新直播源】" tvg-logo="",www.iptv-search.com
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshd
+#EXTINF:-1 group-title="【www.iptv-search.com】" tvg-logo="",【www.iptv-search.com】
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshd
+#EXTINF:-1 group-title="" tvg-logo="",{
+undefined
+#EXTINF:-1 group-title="" tvg-logo="","spider": "http://rihou.cc:555/jar/nzk0722.jar"
+
+#EXTINF:-1 group-title="" tvg-logo="",}
+{
+#EXTINF:-1 group-title="" tvg-logo="","header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+like Gecko) Chrome/125.0.0.0 Safari/537.36"}}
+#EXTINF:-1 group-title="" tvg-logo="","changeable":1
+"ext":"caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
+#EXTINF:-1 group-title="" tvg-logo="","user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+#EXTINF:-1 group-title="" tvg-logo="","#EXTINF:1.000000
+[\\s\\S]*?#EXT-X-ENDLIST"
+#EXTINF:-1 group-title="" tvg-logo="","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333
+[\\s\\S]*?#EXT-X-DISCONTINUITY"
+#EXTINF:-1 group-title="" tvg-logo="",]
+"doh": [
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"www.djuu.com"
+"rule":["mp4.djuu.com"
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"www.sharenice.net"
+"rule":["sovv.qianpailive.com"
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"www.sharenice.net"
+"rule":["douyin.com"
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"m.ysxs8.vip"
+"rule":["ysting.ysxs8.vip:81"
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"hdmoli.com"
+"rule":[".m3u8"]}
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"www.agemys.cc"
+"rule":["cdn-tos"
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"www.fun4k.com"
+"rule":["https://hd.ijycnd.com/play"
+#EXTINF:-1 group-title="" tvg-logo="",{"host":"zjmiao.com"
+"rule":["play.videomiao.vip/API.php"
